@@ -6,7 +6,6 @@ This repository contains data analysis projects demonstrating my ability to clea
 ## Skills
 - Data Cleaning & Analysis
 - Excel & Google Sheets
-- SQL
 - Power BI
 - Data Visualization
 - Insight Communication
